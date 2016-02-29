@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pomponiimelaede01melagoog_0169.png"; bbox 0 0 2868 4930; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 268 1299 976 1398">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 268 1299 976 1398">
+     <span class='ocr_line' id='line_1_1' title="bbox 268 1299 976 1398; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 268 1299 659 1397; x_wconf 86' lang='lat' dir='ltr'><strong>POMPONII</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 710 1301 976 1398; x_wconf 81' lang='lat' dir='ltr'><strong>MELAB</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 105 1733 1388 1940">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 105 1733 1388 1940">
+     <span class='ocr_line' id='line_1_2' title="bbox 105 1733 1388 1940; baseline 0.009 -37"><span class='ocrx_word' id='word_1_3' title='bbox 105 1791 496 1903; x_wconf 78' lang='lat' dir='ltr'>slTU</span> <span class='ocrx_word' id='word_1_4' title='bbox 628 1733 1146 1940; x_wconf 76' lang='lat' dir='ltr'>onnls</span> <span class='ocrx_word' id='word_1_5' title='bbox 1383 1903 1388 1914; x_wconf 86' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 439 2097 814 2172">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 439 2097 814 2172">
+     <span class='ocr_line' id='line_1_3' title="bbox 439 2097 814 2172; baseline -0.011 -2"><span class='ocrx_word' id='word_1_6' title='bbox 439 2097 721 2172; x_wconf 72' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 783 2099 814 2168; x_wconf 90' lang='lat'><strong>1.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1438 4930">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1438 4930">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1438 4930; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1438 4930; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
